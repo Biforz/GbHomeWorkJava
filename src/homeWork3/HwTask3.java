@@ -17,7 +17,6 @@ public class HwTask3 {
         list.add(54);
         list.add(27);
         list.add(5);
-        List<Integer> newList = new ArrayList<>();
         int max = list.get(0);
         int min = max;
         int sum = 0;
