@@ -1,0 +1,70 @@
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Старт сортировки
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Условие цикла while выполнено, продолжаем сортировку
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значению boolean = true
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Запускаем цикл для прохождения по всей длинне массива и проверки условия
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Найден не отсортированный элемент, сортируем его
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значение boolean = false
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Найден не отсортированный элемент, сортируем его
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значение boolean = false
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Найден не отсортированный элемент, сортируем его
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значение boolean = false
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Найден не отсортированный элемент, сортируем его
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значение boolean = false
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Условие цикла while выполнено, продолжаем сортировку
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значению boolean = true
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Запускаем цикл для прохождения по всей длинне массива и проверки условия
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Найден не отсортированный элемент, сортируем его
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значение boolean = false
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Найден не отсортированный элемент, сортируем его
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значение boolean = false
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Условие цикла while выполнено, продолжаем сортировку
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значению boolean = true
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Запускаем цикл для прохождения по всей длинне массива и проверки условия
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Найден не отсортированный элемент, сортируем его
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значение boolean = false
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Найден не отсортированный элемент, сортируем его
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значение boolean = false
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Условие цикла while выполнено, продолжаем сортировку
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значению boolean = true
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Запускаем цикл для прохождения по всей длинне массива и проверки условия
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Найден не отсортированный элемент, сортируем его
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значение boolean = false
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Условие цикла while выполнено, продолжаем сортировку
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Присвоили значению boolean = true
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Запускаем цикл для прохождения по всей длинне массива и проверки условия
+мар. 10, 2023 7:59:42 PM homeWork2.JavaTask2 main
+INFO: Сортировка завершена и выведена в консоль

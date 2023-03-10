@@ -1,0 +1,4 @@
+мар. 10, 2023 8:03:23 PM homeWork2.JavaTask4 main
+INFO: Запуск калькулятора
+мар. 10, 2023 8:03:24 PM homeWork2.JavaTask4 main
+INFO: Запрос пользователю ввести первое число
