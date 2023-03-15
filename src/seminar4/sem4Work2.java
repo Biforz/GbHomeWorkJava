@@ -1,8 +1,6 @@
-package seminar1;
+package seminar4;
 
 import java.util.LinkedList;
-import java.util.List;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class sem4Work2 {

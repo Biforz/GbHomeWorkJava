@@ -1,4 +1,4 @@
-package seminar1;
+package seminar4;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
