@@ -14,7 +14,7 @@ public class sem4Work4 {
         System.out.println("Массив пуст: " + empty(array));
         System.out.println("Добавить в массив элемент \"10\": " + Arrays.toString(push(array, 10)));
         System.out.println(peek(array));
-        System.out.println(Arrays.toString(pop(array)));
+        System.out.println("Удалил последний элемент массива: " + Arrays.toString(pop(array)));
 
 
     }
