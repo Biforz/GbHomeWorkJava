@@ -103,4 +103,5 @@ public class Hw6Task1 {
     public static void ssdSort(List<NoteBook> list, int ssdNum) {
         list.removeIf(item -> !(item.getSsd() == ssdNum));
     }
+
 }
